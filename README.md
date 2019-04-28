@@ -14,3 +14,5 @@
 https://www.youtube.com/watch?v=nL34zDTPkcs
 
 https://gist.github.com/ivanseidel/b1693a3be7bb38ff3b63
+
+http://fritzenlab.com.br/2016/11/sistema-pendulo-helice-experimentos-fisicos/
