@@ -9,3 +9,8 @@
      
      https://github.com/Robot-Will/Stino/archive/master.zip
 
+# PID Arduino C++
+
+https://www.youtube.com/watch?v=nL34zDTPkcs
+
+https://gist.github.com/ivanseidel/b1693a3be7bb38ff3b63
