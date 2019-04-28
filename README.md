@@ -20,7 +20,9 @@ http://fritzenlab.com.br/2016/11/sistema-pendulo-helice-experimentos-fisicos/
 
 # RC Turnigy 9x
 
-CPPM-Sender for Arduino to control remotecontrols via the trainer input.
+https://www.youtube.com/watch?v=bBjPMjqcHAc
+
+## CPPM-Sender for Arduino to control remotecontrols via the trainer input.
 
 https://github.com/Floyer007/videopult
 
